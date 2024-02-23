@@ -1,0 +1,13 @@
+/* .poken{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.imgg{
+    width: 250px;
+    height: 250px;
+}
+ul{
+  list-style: none;
+}
